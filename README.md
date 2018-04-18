@@ -2,6 +2,8 @@
 
 Au travers des projets de **gestion documentaire et d'architecture des flux d'information** auxquels j'ai participé au sein du Département de la Gironde, j'ai acquis une bonne compréhension des **enjeux techniques et organisationnels** qui rendent complexe la bonne réalisation de ces projets structurants.
 
+![dans le désert B](../media/desertb.jpg)
+
 A la croisée de l'**ingénierie** et de l'**ingéniosité**, j'exerce une activité de **facilitateur numérique** visant à accompagner les changements organisationnels et à **fluidifier les relations** entre maîtrise d'oeuvre et maîtrise d'ouvage.
 En tant que **responsable produit**, je participe à l'expression de la **vision** et à la **priorisation** des réalisations en construisant une **relation de confiance** avec les équipes techniques.
 
