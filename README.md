@@ -21,12 +21,12 @@ Formé à la méthode de gestion de projet scrum, j'utilise également des **dis
 * Mettre en place et exploiter un système d'archivage
 * Processus documentaires et gestion des métadonnées
 * culture des données et démarche d'ouverture opendata
+
 ### Expériences : 
 
 * Responsable produit d'un projet de système d'archivage électronique mutualisé open source : [SAEM Girondin](https://saem-e.bordeaux.org) 
 * Responsable produit du portail opendata du Département de la Gironde : [datalocale](https://datalocale.fr)
-* Responsable produit d'une application de datavisualisation des données du compte administratif du Département de la Gironde
-* Co-éditeur de la liste de bonnes pratiques open data : [compte administratif](https://www.gironde.fr/compte-administratif)
+* Responsable produit d'une application de datavisualisation des données du compte administratif du Département de la Gironde [compte administratif](https://www.gironde.fr/compte-administratif)
 * Expert auprès d'organismes de normalisation (Commission Européenne - standard DCAT, Archives de France/Afnor - Standard SEDA, SGMAP - groupe DCANT)
 * Chef de projet Europeana, programme de valorisation des métadonnées des établissements culturels européens
 * Chef de projet numérisation et valorisation aux Archives départementales de la Gironde
