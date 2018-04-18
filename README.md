@@ -15,6 +15,12 @@ Formé à la méthode de gestion de projet scrum, j'utilise également des **dis
 * Responsable produit de projets de **dématérialisation**, de **gestion documentaire**, d'**archivage électronique**
 * Responsable produit de projets d'**ouverture de données publiques** et **visualisation** de données
 
+### Formations : 
+
+* cycle de vie de l'information et métadonnées de pérennisation
+* Mettre en place et exploiter un système d'archivage
+* Processus documentaires et gestion des métadonnées
+* culture des données et démarche d'ouverture opendata
 ### Expériences : 
 
 * Responsable produit d'un projet de système d'archivage électronique mutualisé open source : [SAEM Girondin](https://saem-e.bordeaux.org) 
@@ -27,10 +33,5 @@ Formé à la méthode de gestion de projet scrum, j'utilise également des **dis
 * co-editeur de la [checklist opendata](http://checklists.opquast.com/fr/opendata/)
 * co-editeur du site ressource [datalunch](https://datalunch.datalocale.fr)  
 
-## Formations : 
-
-* cycle de vie de l'information et métadonnées de pérennisation
-* Mettre en place et exploiter un système d'archivage
-* Processus documentaires et gestion des métadonnées
-* culture des données et démarche d'ouverture opendata
+**contact** : [mail](mailto:keronos@protonmail.com)
 
