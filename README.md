@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Présentation
 
-You can use the [editor on GitHub](https://github.com/akakeronos/service/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Au travers des projets de **gestion documentaire et d'architecture des flux d'information** auxquels j'ai participé au sein du Département de la Gironde, j'ai acquis une bonne compréhension des **enjeux techniques et organisationnels** qui rendent complexe la bonne réalisation de ces projets structurants.
+A la croisée de l'**ingénierie** et de l'**ingéniosité**, j'exerce une activité de **facilitateur numérique** visant à accompagner les changements organisationnels et à **fluidifier les relations** entre maîtrise d'oeuvre et maîtrise d'ouvage.
+En tant que **responsable produit**, je participe à l'expression de la **vision** et à la **priorisation** des réalisations en construisant une **relation de confiance** avec les équipes techniques.
+Formé à la méthode de gestion de projet scrum, j'utilise également des **dispositifs d'animation** issu de l'innovation sociale pour accompagner la **transformation numérique** des organisation **au service des usages**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mes domaines d'intervention :
 
-### Markdown
+* **formation-action** : mise en capacité des acteurs internes au travers de jeux de rôles et de l'approche lean canvas permettant d'identifier les gisements de **valeur ajouté** et la meilleure trajectoire à mettre en place en fonction du contexte
+* assistance à l'expression de la **vision produit** : construction du backlog produit et du plan d'itération - études d'opportunité et analyse d'impact
+* **cartographie** des flux de données et préconisations de mise en conformité avec le règlement général de protection des données
+* Responsable produit de projets de **dématérialisation**, de **gestion documentaire**, d'**archivage électronique**
+* Responsable produit de projets d'**ouverture de données publiques** et **visualisation** de données
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Expériences : 
 
-```markdown
-Syntax highlighted code block
+* Responsable produit d'un projet de système d'archivage électronique mutualisé open source : [SAEM Girondin](https://saem-e.bordeaux.org) 
+* Responsable produit du portail opendata du Département de la Gironde : [datalocale](https://datalocale.fr)
+* Responsable produit d'une application de datavisualisation des données du compte administratif du Département de la Gironde
+* Co-éditeur de la liste de bonnes pratiques open data : [compte administratif](https://www.gironde.fr/compte-administratif)
+* Expert auprès d'organismes de normalisation (Commission Européenne - standard DCAT, Archives de France/Afnor - Standard SEDA, SGMAP - groupe DCANT)
+* Chef de projet Europeana, programme de valorisation des métadonnées des établissements culturels européens
+* Chef de projet numérisation et valorisation aux Archives départementales de la Gironde
 
-# Header 1
-## Header 2
-### Header 3
+Formateur : 
 
-- Bulleted
-- List
+* cycle de vie de l'information et métadonnées de pérennisation - association PIN
+* Mettre en place et exploiter un système d'archivage - association des archivistes français
+* processus documentaires et gestion des métadonnées - ENSSIB
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akakeronos/service/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
