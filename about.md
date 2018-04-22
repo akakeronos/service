@@ -11,6 +11,8 @@ Au travers des projets de **gestion documentaire et d'architecture des flux d'in
 A la croisée de l'**ingénierie** et de l'**ingéniosité**, j'exerce une activité de **facilitateur numérique** visant à accompagner les changements organisationnels et à **fluidifier les relations** entre maîtrise d'oeuvre et maîtrise d'ouvage.
 En tant que **responsable produit**, je participe à l'expression de la **vision** et à la **priorisation** des réalisations en construisant une **relation de confiance** avec les équipes techniques.
 
+![dans le désert B](https://github.com/akakeronos/service/raw/master/media/outillage.jpg)
+
 Formé à la méthode de gestion de projet scrum, j'utilise également des **dispositifs d'animation** issu de l'innovation sociale pour accompagner la **transformation numérique** des organisation **au service des usages**.
 
 ### Mes domaines d'intervention :
