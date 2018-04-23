@@ -16,8 +16,8 @@
 title: Keronos Entertainment - conseils et formation
 email: keronos@protonmail.com
 description: facilitateur numérique en gestion de l'information # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/service" # the subpath of your site, e.g. /blog
+url: "https://akakeronos.github.io/service/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: keronos
 github_username:  akakeronos
 
