@@ -776,6 +776,7 @@ INTERDOC décrit les activités des services des collectivités publiques
     skos:hasTopConcept <ADMINISTRATION> .
 ````
 
+
 ## Les vocabulaires contrôlés
 
 [standard SKOS](http://www.w3.org/TR/skos-reference)
