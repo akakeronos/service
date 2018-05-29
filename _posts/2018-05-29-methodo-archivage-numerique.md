@@ -4,6 +4,7 @@ title:  "Quelques conseils pour l'archivage numérique"
 date:   2018-05-29 17:16:34 +0200
 categories: archivage
 ---
+
 # Archivage numérique
 
 ## Intro :
@@ -469,7 +470,7 @@ Toutes les fonctionnalités doivent être strictement encadrées et normalisées
 
 Ces fonctionnalités impliquent des outils et des moyens adaptés au sein d’une organisation renforcée.
 
-**Les archives intermédiaire<s**
+**Les archives intermédiaires**
 
 « Sont considérés comme archives intermédiaires les documents qui :
 1. ont cessé d'être considérés comme archives courantes ;
@@ -478,7 +479,7 @@ Ces fonctionnalités impliquent des outils et des moyens adaptés au sein d’un
 La conservation des archives intermédiaires peut être assurée dans des dépôts spéciaux, dits dépôts de préarchivage, placés sous le contrôle de la personne chargée du contrôle scientifique et technique de l'Etat sur les archives.
 A défaut de préarchivage, les archives intermédiaires sont soit conservées dans les locaux de leur service, établissement ou organisme d'origine, sous le contrôle de la personne chargée du contrôle scientifique et technique de l'Etat sur les archives, soit déposées dans les conditions prévues aux articles 20-1 à 20-13 » (art. 13 du décret n° 79-1037) .
 
-### Les archives définitives
+**Les archives définitives**
 
 « Sont considérés comme archives définitives les documents qui ont subi les sélections et éliminations définis ci-dessous aux articles 15 et 16  et qui sont à conserver sans limitation de durée. La conservation des archives définitives est assurée dans les dépôts d'archives relevant de la direction générale des patrimoines ou placés sous le contrôle de la personne chargée du contrôle scientifique et technique de l'Etat sur les archives. » (art. 14 du décret n° 79-1037).
 
@@ -629,10 +630,11 @@ A l'instar de la cote dans les dépôts d'archives ou de bibliothèques, le web 
 Parmis ces URI les URL sont des identifiants pour le web qui identifient la ressource par le moyen d'y accéder. Parmi ceux-ci certains peuvent être pérennes par le biais d'une autorité d'identification ou par une politique d'identification et d'adressage normalisée.
 
 Syntaxe :
+````
 <scheme:chaîne/de.caractère>
 <http://monsite.com/dossier/fichier.html#ancre>
 <http://mondomaine.org/ressource/1234>
-
+````
 Un préfixe qui indique le contexte dans lequel l’identifiant est attribué (par ex. http:,ftp:, urn:, etc.)
 Un élément qui permet de désigner l’autorité nommante qui a attribué l’identifiant au sein de ce système
 le « nom » lui-même, c'est-à-dire une chaîne de caractères qui identifie la ressource de manière unique, au sein de ce système et pour cette autorité.
@@ -738,14 +740,15 @@ L’Écume des jours est paru en 1947
 L’Écume des jours a pour thèmes l’amour, la maladie, la mort
 J’irais cracher sur vos tombes a pour auteur Vernon Sullivan
 
+````
 http://dbpedia.org/page/Froth_on_the_Daydream
 http://data.bnf.fr/13091689/boris_vian/
-dbpedia:Froth_on_the_Daydream rdf:type yago:Novel106367879
-dbpedia:Froth_on_the_Daydream dcterms:creator dbpedia:Boris_Vian
-dbpedia:Froth_on_the_Daydream dcterms:date "1947"
-dbpedia:Froth_on_the_Daydream skos:subject dbpedia:Love
-dbpedia-owl:wikiPageRedirects dcterms:creator dbpedia:Vernon_Sullivan
-
+  dbpedia:Froth_on_the_Daydream rdf:type yago:Novel106367879
+  dbpedia:Froth_on_the_Daydream dcterms:creator dbpedia:Boris_Vian
+  dbpedia:Froth_on_the_Daydream dcterms:date "1947"
+  dbpedia:Froth_on_the_Daydream skos:subject dbpedia:Love
+  dbpedia-owl:wikiPageRedirects dcterms:creator dbpedia:Vernon_Sullivan
+````
 ACTION PUBLIQUE est un terme français précisant le terme ADMINISTRATION qui englobe l’ensemble des descripteurs contrôlés utilisés par le vocabulaire contrôlé INTERDOC pour décrire les activités des services des collectivités publiques
 
 ACTION PUBLIQUE est un terme
@@ -755,6 +758,7 @@ ACTION PUBLIQUE fait partie du vocabulaire INTERDOC
 INTERDOC est un vocabulaire
 INTERDOC décrit les activités des services des collectivités publiques
 
+````
 <ACTION PUBLIQUE> rdf:type skos:Concept ;
     skos:prefLabel  "Action publique"@fr ;
     skos:altLabel    »Action administrative"@fr ;
@@ -770,6 +774,7 @@ INTERDOC décrit les activités des services des collectivités publiques
     dct:title "Interdoc"
     dct:description "un vocabulaire pour décrire les activités des services des collectivités publiques" ;
     skos:hasTopConcept <ADMINISTRATION> .
+````
 
 ## Les vocabulaires contrôlés
 
@@ -778,9 +783,9 @@ INTERDOC décrit les activités des services des collectivités publiques
 SKOS est construit sur la base du langage RDF, et son principal objectif est de permettre la publication facile de vocabulaires structurés pour leur utilisation dans le cadre du Web de données.
 les propriétés de mise en correspondance proposées dans SKOS permettent d'exprimer des correspondances entre concepts provenant de schémas différents
 
-skos:exactMatch ou skos:closeMatch
-skos:broadMatch, skos:narrowMatch, skos:relatedMatch
-skos:semanticRelation
+* skos:exactMatch ou skos:closeMatch
+* skos:broadMatch, skos:narrowMatch, skos:relatedMatch
+* skos:semanticRelation
 
 exemple :
 
@@ -978,7 +983,7 @@ Les droits d’accès doivent encore être gérés très finement sur les archiv
 
 ## Les protocoles de communication
 
-MEDONA
+**MEDONA**
 
 Le schéma MEDONA Z 44-022 permet de structurer les métadonnées générées par les acteurs au cours des échanges (transfert, de communication, de modification, d'élimination ou de restitution d’archives).
 
@@ -1076,7 +1081,8 @@ Les messages SEDA décrivent les contraintes (format, support, identification) e
 La grammaire XML permet de définir des règles formelles vérifiables par les machines (est égal à, ne peut pas être différent de, n'existe qu'en un seul exemplaire, provient de, etc...)
 
 
-## OAI-PMH
+**OAI-PMH**
+
 6 verbes pour un échange de données normalisé
 
 * qui?: la carte d'identité de l'entrepôt
@@ -1089,6 +1095,7 @@ la liste des identifiants uniques
 la liste des fiches descriptives
 * quoi?: le contenu de la fiche descriptive  
 
+<!--
 # construire un espace global d’information
 SPARQL
 
@@ -1103,7 +1110,7 @@ SameAs
 
 # Valoriser les ressources patrimoniales
 
-
+-->
 ## Archivage et gouvernance de l'information
 
 ### La gestion du cycle de vie de l'information
