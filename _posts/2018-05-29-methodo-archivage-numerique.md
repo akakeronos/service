@@ -758,23 +758,6 @@ ACTION PUBLIQUE fait partie du vocabulaire INTERDOC
 INTERDOC est un vocabulaire
 INTERDOC décrit les activités des services des collectivités publiques
 
-````
-<ACTION PUBLIQUE> rdf:type skos:Concept ;
-    skos:prefLabel  "Action publique"@fr ;
-    skos:altLabel    »Action administrative"@fr ;
-    skos:broader <ADMINISTRATION> ;
-    skos:inScheme <INTERDOC> .
-
-<ADMINISTRATION> rdf:type skos:Concept ;
-    skos:prefLabel   "Administration"@fr ;
-    skos:altLabel    "Collectivité"@fr ;
-    skos:topConceptOf <INTERDOC> .
-
-<INTERDOC> rdf:type skos:ConceptScheme ;
-    dct:title "Interdoc"
-    dct:description "un vocabulaire pour décrire les activités des services des collectivités publiques" ;
-    skos:hasTopConcept <ADMINISTRATION> .
-````
 
 
 ## Les vocabulaires contrôlés
