@@ -783,24 +783,26 @@ skos:broadMatch, skos:narrowMatch, skos:relatedMatch
 skos:semanticRelation
 
 exemple :
-http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1302
- dct:created "2014-03-12T19:13:55+0100" ;
-dct:modified "2012-11-22T00:00:00+0100" ;
-iso-thes:status "1" ;
-a skos:Concept ;
-skos:exactMatch <http://data.bnf.fr/ark:/12148/cb13318807v> ;
-skos:historyNote "2011-12-07 : modification du prefLabel
-\« Education\" en \« Education et sciences\""@fr-fr ;
-skos:inScheme <http://data.culture.fr/thesaurus/resource/ark:/67717/Matiere> ;
-skos:narrower <http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1121> ,
-<http://data.culture.fr/thesaurus/resource/ark:/67717/T1-3> ,
-<http://data.culture.fr/thesaurus/resource/ark:/67717/T1-499> ,
-<http://data.culture.fr/thesaurus/resource/ark:/67717/T1-881> ;
-skos:prefLabel « Education et sciences"@fr-fr ;
-<http://www.w3.org/2008/05/skos-xl#prefLabel>
-<http://data.culture.fr/thesaurus/resource/ark:/67717/ce918de4-581a-49a6-83ef-d8932deb73d6> ;
-foaf:focus <http://dbpedia.org/resource/Education> .
 
+````
+http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1302
+  dct:created "2014-03-12T19:13:55+0100" ;
+  dct:modified "2012-11-22T00:00:00+0100" ;
+  iso-thes:status "1" ;
+  a skos:Concept ;
+  skos:exactMatch <http://data.bnf.fr/ark:/12148/cb13318807v> ;
+  skos:historyNote "2011-12-07 : modification du prefLabel
+  \« Education\" en \« Education et sciences\""@fr-fr ;
+  skos:inScheme <http://data.culture.fr/thesaurus/resource/ark:/67717/Matiere> ;
+  skos:narrower <http://data.culture.fr/thesaurus/resource/ark:/67717/T1-1121> ,
+  <http://data.culture.fr/thesaurus/resource/ark:/67717/T1-3> ,
+  <http://data.culture.fr/thesaurus/resource/ark:/67717/T1-499> ,
+  <http://data.culture.fr/thesaurus/resource/ark:/67717/T1-881> ;
+  skos:prefLabel « Education et sciences"@fr-fr ;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel>
+  <http://data.culture.fr/thesaurus/resource/ark:/67717/ce918de4-581a-49a6-83ef-d8932deb73d6> ;
+  foaf:focus <http://dbpedia.org/resource/Education> .
+````
 ## La traçabilité des informations
 
 Une information est toujours produite dans un contexte.
